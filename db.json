@@ -2,9 +2,9 @@
   "studios": [
     {
       "id": "studio-a",
-      "name": "Studio A",
-      "description": "Spacious studio with premium acoustic treatment.",
-      "longDescription": "Studio A is our flagship recording space...",
+      "name": "The Warmth Room",
+      "description": "The Vintage Analog Studio",
+      "longDescription": "This studio is filled with warm wood tones, a classic mixing console with numerous knobs and faders, reel-to-reel tape machines, and vintage synthesizers. There's a cozy, slightly cluttered feel, perfect for capturing authentic, old-school sounds.",
       "location": "First Floor, Main Building",
       "imageUrl": "images/studio-a.jpg",
       "unavailableSlots": {
@@ -14,9 +14,9 @@
     },
     {
       "id": "studio-b",
-      "name": "Studio B",
-      "description": "Digital workspace for modern music production.",
-      "longDescription": "Perfect for the modern producer, Studio B...",
+      "name": "Pure Signal Studio",
+      "description": "The Modern Minimalist Studio",
+      "longDescription": "Sleek, clean lines dominate this space. White walls, a single large computer monitor, a compact MIDI controller, and strategically placed acoustic panels create an uncluttered, high-tech environment optimized for digital production.",
       "location": "First Floor, West Wing",
       "imageUrl": "images/studio-b.jpg",
       "unavailableSlots": {
@@ -26,9 +26,9 @@
     },
     {
       "id": "studio-c",
-      "name": "Studio C",
-      "description": "Compact studio perfect for solo artists.",
-      "longDescription": "Studio C is an intimate and cozy space...",
+      "name": "Raw Tracks Studio",
+      "description": "The Live Band Jam Room Studio",
+      "longDescription": "This space is set up for collaborative live recording. It features a drum kit, several guitar amps, microphones on stands, and soundproofing on the walls, giving it a raw, energetic feel ready for a band to lay down tracks.",
       "location": "Second Floor, Main Building",
       "imageUrl": "images/studio-c.jpg",
       "unavailableSlots": {
@@ -37,18 +37,18 @@
     },
     {
       "id": "studio-d",
-      "name": "Studio D",
-      "description": "Professional recording setup with a live room.",
-      "longDescription": "Designed for versatility, Studio D...",
+      "name": "The Drifting Note",
+      "description": "The Ambient Chillout Studio",
+      "longDescription": "Soft, indirect lighting, comfortable seating, plants, and a variety of unique instruments like kalimbas, hand drums, and a modular synthesizer create a tranquil and inspiring atmosphere for experimental or meditative music creation.",
       "location": "Second Floor, East Wing",
       "imageUrl": "images/studio-d.jpg",
       "unavailableSlots": {}
     },
     {
       "id": "studio-e",
-      "name": "Studio E",
-      "description": "Advanced mixing and mastering suite.",
-      "longDescription": "Studio E is our dedicated mixing and mastering suite...",
+      "name": "City Beat Studios",
+      "description": "The Urban Loft Producer Studio",
+      "longDescription": "This studio is situated in a stylish city loft with large windows overlooking the urban landscape. It combines professional gear with a comfortable, lived-in feel – a powerful computer setup, studio monitors, a large keyboard, and perhaps some art or personal touches on the walls, reflecting a blend of work and lifestyle.",
       "location": "Third Floor, Control Room",
       "imageUrl": "images/studio-e.jpg",
       "unavailableSlots": {
